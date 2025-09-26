@@ -19,8 +19,8 @@ To clean, explore, and analyze Zepto’s inventory data for identifying revenue 
 
 - **Inventory Weight Distribution**: Calculated total inventory weight per category and grouped products into Low, Medium, and Bulk weight categories to optimize storage and logistics.
 
-# sql
-- <a href="https://github.com/RahulPrasad22/Zepto-Inventory-Analysis/blob/main/zepto_v2.csv](https://github.com/RahulPrasad22/Zepto-Inventory-Analysis/blob/main/Zepto_SQL_data_analysis.sql">SQL</a>
+# Analysis using Sql :
+- <a href="https://github.com/RahulPrasad22/Zepto-Inventory-Analysis/blob/main/Zepto_SQL_data_analysis.sql">SQL</a>
 
 # Conclusion :
 - Enabled data-driven inventory planning by pinpointing high-value but understocked products, reducing potential revenue leakage.
