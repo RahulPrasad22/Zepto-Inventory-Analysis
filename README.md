@@ -19,4 +19,13 @@ To clean, explore, and analyze Zepto’s inventory data for identifying revenue 
 
 - **Inventory Weight Distribution**: Calculated total inventory weight per category and grouped products into Low, Medium, and Bulk weight categories to optimize storage and logistics.
 
+# Impact :
+- Enabled data-driven inventory planning by pinpointing high-value but understocked products, reducing potential revenue leakage.
+
+- Provided actionable insights to optimize discount strategies, improving margin management and competitive positioning.
+
+- Improved supply chain efficiency by understanding category-wise inventory weight and storage needs.
+
+- Strengthened decision-making for promotions, pricing, and procurement, ultimately driving profitability and operational efficiency.
+
 
