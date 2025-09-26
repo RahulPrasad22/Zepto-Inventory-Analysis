@@ -13,7 +13,7 @@ To clean, explore, and analyze Zepto’s inventory data for identifying revenue 
 
 - **Revenue Estimation** : Calculated estimated revenue per category using discounted selling price and available quantity to identify top revenue-generating categories.
 
-- **Pricing & Discount Strategy**:<br \>
+- **Pricing & Discount Strategy**:
 a) Listed top 10 best-value products with the highest discount percentage.
 b) Highlighted products with MRP > ₹500 but discount <10%, exposing potential candidates for targeted discounting.
 c) Identified top 5 categories with the highest average discount percentage, helping refine promotional strategies.
